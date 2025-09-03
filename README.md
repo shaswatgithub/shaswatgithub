@@ -49,7 +49,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaswatgithub&show_icons=true&locale=en&layout=compact&langs_count=10" alt="shaswatgithub" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaswatgithub&show_icons=true&locale=en" alt="shaswatgithub" /></p>
 
