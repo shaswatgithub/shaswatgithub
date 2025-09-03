@@ -44,11 +44,6 @@
 
 
 
-- 🌱 I’m currently learning **Generative AI**
-
-- 📫 How to reach me **shaswat####@gmail.com**
-
-- ⚡ Fun fact **I am an iitian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
