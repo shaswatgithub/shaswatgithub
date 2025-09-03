@@ -2,13 +2,13 @@
 ![logo](https://github.com/shaswatgithub/Shaswatiitk/blob/main/gif.gif)
 <h1 align="center">Hi 👋, I'm Shaswat</h1>
 <h3 align="center">A passionate AI/ML Enthusiast from India</h3>
-  - 🔭 I’m currently working on [YourProject](https://github.com/shaswatgithub/yourproject)
-- 🌱 I’m currently learning **Node.js, GSAP ...**
-- 👨‍💻 All of my projects are available at [your portfolio](https://your-portfolio-link)
-- 💬 Ask me about **React, Node, and other web stuff**
-- 📫 How to reach me **your-email@example.com**
-- 📄 Know about my experiences [your experience link](https://your-experience-link)
-- ⚡ Fun fact **I can be a little too hard working sometimes!**
+  <p> 🔭 I’m currently working on [YourProject](https://github.com/shaswatgithub/yourproject)</p>
+<p> 🌱 I’m currently learning **Node.js, GSAP ...**</p>
+<p> 👨‍💻 All of my projects are available at [your portfolio](https://your-portfolio-link)</p>
+<p> 💬 Ask me about **React, Node, and other web stuff**</p>
+<p> 📫 How to reach me **your-email@example.com**</p>
+<p> 📄 Know about my experiences [your experience link](https://your-experience-link)</p>
+<p> ⚡ Fun fact **I can be a little too hard working sometimes!**</p>
 
 
 <p align="right">
