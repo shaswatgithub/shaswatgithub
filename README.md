@@ -3,37 +3,27 @@
 <h1 align="center">Hi 👋, I'm Shaswat</h1>
 <table>
   <tr>
-    <td valign="top" width="60%">
-      
-<h3>A passionate AI/ML Enthusiast from India</h3>
-
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <!-- Left: Text -->
-  <div style="flex: 1;">
-    <ul>
-      <li>🛠️ I’m currently working on <a href="https://github.com/shaswatgithub/yourproject">YourProject</a></li>
-      <li>🌱 I’m currently learning <b>Node.js, GSAP ...</b></li>
-      <li>👨‍💻 All of my projects are available at <a href="https://your-portfolio-link">your portfolio</a></li>
-      <li>💬 Ask me about <b>React, Node, and other web stuff</b></li>
-      <li>📫 How to reach me <b>your-email@example.com</b></li>
-      <li>📄 Know about my experiences <a href="https://your-experience-link">your experience link</a></li>
-      <li>⚡ Fun fact <b>I can be a little too hard working sometimes!</b></li>
-    </ul>
-  </div>
-
-  <!-- Right: Image -->
-  <div>
-    <a href="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" target="_blank">
-      <img src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" 
-           alt="ChatGPT GIF" 
-           width="400"/>
-    </a>
-  </div>
-
-</div>
-
+    <td valign="top" width="55%">
+      <h3>A passionate AI/ML Enthusiast from India</h3>
+      <ul>
+        <li>🛠️ I’m currently working on <a href="https://github.com/shaswatgithub/yourproject">YourProject</a></li>
+        <li>🌱 I’m currently learning <b>Node.js, GSAP ...</b></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://your-portfolio-link">your portfolio</a></li>
+        <li>💬 Ask me about <b>React, Node, and other web stuff</b></li>
+        <li>📫 How to reach me <b>your-email@example.com</b></li>
+        <li>📄 Know about my experiences <a href="https://your-experience-link">your experience link</a></li>
+        <li>⚡ Fun fact <b>I can be a little too hard working sometimes!</b></li>
+      </ul>
+    </td>
+    <td width="45%">
+      <a href="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" target="_blank">
+        <img src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" 
+             alt="ChatGPT GIF" width="400"/>
+      </a>
+    </td>
+  </tr>
 </table>
+
 
 
 
