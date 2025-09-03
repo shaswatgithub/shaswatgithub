@@ -1,7 +1,7 @@
 # Shaswatiitk
 ![logo](https://github.com/shaswatgithub/Shaswatiitk/blob/main/gif.gif)
 <h1 align="center">Hi 👋, I'm Shaswat</h1>
-<h3 align="center">A passionate AI/ML Enthusiast from India</h3>
+<div><h3 align="center">A passionate AI/ML Enthusiast from India</h3>
   <p> 🔭 I’m currently working on [YourProject](https://github.com/shaswatgithub/yourproject)</p>
 <p> 🌱 I’m currently learning **Node.js, GSAP ...**</p>
 <p> 👨‍💻 All of my projects are available at [your portfolio](https://your-portfolio-link)</p>
@@ -16,6 +16,7 @@
     <img src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" alt="ChatGPT GIF" width="400"/>
   </a>
 </p>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswatgithub&label=Profile%20views&color=0e75b6&style=flat" alt="shaswatgithub" /> </p>
 
