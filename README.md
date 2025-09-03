@@ -32,9 +32,14 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswatgithub&label=Profile%20views&color=0e75b6&style=flat" alt="shaswatgithub" /> </p>
 
-<p align="left"> <a href="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" target="_blank"><img src="[https://github-profile-trophy.vercel.app/?username=shaswatgithub" alt="shaswatgithub](https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" alt="ChatGPT GIF" width="400)" /></a> </p>
+<p align="left">
+  <a href="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" target="_blank">
+    <img src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" 
+         alt="ChatGPT GIF" 
+         width="400"/>
+  </a>
+</p>
 
 - 🌱 I’m currently learning **Generative AI**
 
