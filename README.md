@@ -1,22 +1,36 @@
 # Shaswatiitk
 ![logo](https://github.com/shaswatgithub/Shaswatiitk/blob/main/gif.gif)
 <h1 align="center">Hi 👋, I'm Shaswat</h1>
-<div><h3 align="center">A passionate AI/ML Enthusiast from India</h3>
-  <p> 🔭 I’m currently working on [YourProject](https://github.com/shaswatgithub/yourproject)</p>
-<p> 🌱 I’m currently learning **Node.js, GSAP ...**</p>
-<p> 👨‍💻 All of my projects are available at [your portfolio](https://your-portfolio-link)</p>
-<p> 💬 Ask me about **React, Node, and other web stuff**</p>
-<p> 📫 How to reach me **your-email@example.com**</p>
-<p> 📄 Know about my experiences [your experience link](https://your-experience-link)</p>
-<p> ⚡ Fun fact **I can be a little too hard working sometimes!**</p>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      
+<h3>A passionate AI/ML Enthusiast from India</h3>
+
+<ul>
+  <li>🛠️ I’m currently working on <a href="https://github.com/shaswatgithub/yourproject">YourProject</a></li>
+  <li>🌱 I’m currently learning <b>Node.js, GSAP ...</b></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://your-portfolio-link">your portfolio</a></li>
+  <li>💬 Ask me about <b>React, Node, and other web stuff</b></li>
+  <li>📫 How to reach me <b>your-email@example.com</b></li>
+  <li>📄 Know about my experiences <a href="https://your-experience-link">your experience link</a></li>
+  <li>⚡ Fun fact <b>I can be a little too hard working sometimes!</b></li>
+</ul>
+
+    </td>
+    <td width="40%">
+      <a href="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" target="_blank">
+        <img src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" alt="ChatGPT GIF" width="400"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-<p align="right">
-  <a href="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" target="_blank">
-    <img src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" alt="ChatGPT GIF" width="400"/>
-  </a>
-</p>
-</div>
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswatgithub&label=Profile%20views&color=0e75b6&style=flat" alt="shaswatgithub" /> </p>
 
