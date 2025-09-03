@@ -1,5 +1,5 @@
 # Shaswatiitk
-![logo](https://github.com/shaswatgithub/Shaswatiitk/blob/main/gif.gif)
+![logo]((https://github.com/shaswatgithub/Shaswatiitk/blob/main/Screenshot%202025-08-10%20052820.png))
 <h1 align="center">Hi 👋, I'm Shaswat</h1>
 <table>
   <tr>
