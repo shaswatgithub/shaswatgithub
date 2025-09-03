@@ -20,8 +20,9 @@
     </td>
     <td width="40%">
       <a href="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" target="_blank">
-        <img src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" alt="ChatGPT GIF" width="400"/>
-      </a>
+    <img src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" 
+         alt="ChatGPT GIF" 
+         width="400"/>
     </td>
   </tr>
 </table>
@@ -33,13 +34,7 @@
 
 
 
-<p align="left">
-  <a href="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" target="_blank">
-    <img src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" 
-         alt="ChatGPT GIF" 
-         width="400"/>
-  </a>
-</p>
+
 
 - 🌱 I’m currently learning **Generative AI**
 
