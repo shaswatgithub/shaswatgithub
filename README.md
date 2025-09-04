@@ -7,12 +7,12 @@
       <h3>A passionate AI/ML Enthusiast from India</h3>
       <ul>
         <li>🛠️ I’m currently working on <a href="https://github.com/shaswatgithub/yourproject">YourProject</a></li>
-        <li>🌱 I’m currently learning <b>Node.js, GSAP ...</b></li>
+        <li>🌱 I’m currently learning <b>Machine Leraning</b></li>
         <li>👨‍💻 All of my projects are available at <a href="https://your-portfolio-link">your portfolio</a></li>
-        <li>💬 Ask me about <b>React, Node, and other web stuff</b></li>
-        <li>📫 How to reach me <b>your-email@example.com</b></li>
+        <li>💬 Ask me about <b>ML </b></li>
+        <li>📫 How to reach me <b>shaswat##@####.ac.in</b></li>
         <li>📄 Know about my experiences <a href="https://your-experience-link">your experience link</a></li>
-        <li>⚡ Fun fact <b>I can be a little too hard working sometimes!</b></li>
+        <li>⚡ Fun fact <b>I am an iitian!</b></li>
       </ul>
     </td>
     <td width="45%">
