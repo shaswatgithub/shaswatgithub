@@ -27,7 +27,7 @@
 
 
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/SHASWATlet?theme=dark&font=Baloo_2&ext=activity)](https://leetcode.com/SHASWATlet)
+<!-- [![LeetCode Stats](https://leetcard.jacoblin.cool/SHASWATleet?theme=dark&font=Baloo_2&ext=activity)](https://leetcode.com/SHASWATleet)  -->
 
 
 
